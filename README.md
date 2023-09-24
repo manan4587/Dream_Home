@@ -11,7 +11,7 @@
 | 7 | Dhruv Savaliya | 202101161 |
 | 8 | Asdey Shah | 202101101 |
 | 9 | Kushal Srivastava | 202101113 |
-
+| 10 | Harshit Kumar | 202101116|
 
 # Introduction
 
@@ -42,4 +42,36 @@ Dream Home Provides complete information about Property. Some website falls shor
 4. **Convenience**
 <ul>
   <li>This website will be accessible round-the-clock and from anywhere, making it easier for users to look for their dream home at any time or location.</li>
+</ul>
+
+# Features
+
+1. **User Profile**
+<ul>
+  <li>User Profiles are commonly used in software development projects to facilitate collaboration between developers, project managers, and stakeholders.</li>
+  <li>Here in our project the user account will ask for various details like username, user-email, password to create an account on our project.</li>
+</ul>
+
+2. **Favourites**
+<ul>
+  <li>This list will contain all interested property that one particular user has selected and kept aside before coming to final conclusion.</li>
+</ul>
+
+3. **Feedback and Rating**
+<ul>
+  <li>Users can rate properties on various parameters such as the location, amenities, price, and quality of construction, among others.</li>
+  <li>The rating feature is an important tool that helps users make informed decisions by providing valuable insights and feedback from other users.</li>
+  <li>People can also provide feedback on various aspects of the service, such as the ease use of the platform, the accuracy of property lisitings, etc.</li>
+</ul>
+
+4. **Filters**
+<ul>
+  <li>Allows users to narrow down a large set of data to a more manageable subset based on specific criteria such as area, price range, square feet etc.</li>
+  <li>The choice of implementation will depend on the specific requirements of the application and the preferences of the users.</li>
+</ul>
+
+5. **Recommendation**
+<ul>
+  <li>Provides users with personalized suggestions or recommendations based on their preferences and previous search histories.</li>
+  <li>This feature can help to improve the overall user experience by reducing the time and effort required to find new and relevant content.</li>
 </ul>
