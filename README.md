@@ -18,6 +18,7 @@
 Dream Home is a real estate web site for people who can choose their suitable or dream place to live.
 <br><br>
 Dream Home Provides complete information about Property. Some website falls short on providing a complete picture of a neighbourhood or nearby things. In our project we add feature called nearby which has information about schools, hospitals, local amenities nearby property which you are looking. we're going to provide a one-stop-shop for all things "where to live".
+<br>
 
 # Need for this Project
 
@@ -43,6 +44,7 @@ Dream Home Provides complete information about Property. Some website falls shor
 <ul>
   <li>This website will be accessible round-the-clock and from anywhere, making it easier for users to look for their dream home at any time or location.</li>
 </ul>
+<br>
 
 # Features
 
