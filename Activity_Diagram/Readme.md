@@ -1,11 +1,27 @@
 # Activity Diagram
 
-Welcome to the Activity Diagram section of the **DreamHome Real Estate Website project**! This document provides an overview of the activity diagram used in our project to illustrate the workflow and interactions within the system.
+Welcome to the Activity Diagram section of the **DreamHome Real Estate Website project** .This document provides an overview of the activity diagram used in our project to illustrate the workflow and interactions within the system.
+
+# Contributing Members
+| Sr. no. | Student Name | Student ID |
+| --- | --- | --- |
+| 1 | Manan Patel | 202101136 |
+| 2 | Aum Patel | 202101118 |
+| 3 | Akshita Srivastava | 202101117 |
+| 4 | Aditya Prajapati | 202101133 |
+| 5 | Jay Dobariya | 202101163 |
+| 6 | Meet Dhorajiya | 202101155 |
+| 7 | Dhruv Savaliya | 202101161 |
+| 8 | Aadey Shah | 202101101 |
+| 9 | Kushal Srivastava | 202101113 |
+| 10 | Harshit Kumar | 202101116|
+
 
 ## Table of Contents
 - [Overview](#overview)
 - [Purpose](#purpose)
-- [Diagram Description](#diagram-description)
+- [Project Sprints and Activity Diagrams](#Project-Sprints-and-Activity-Diagrams)
+- [Key Components](#key-Components)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [Contact](#Contact-us)
@@ -23,7 +39,7 @@ The purpose of the activity diagram is to:
 - Clarify decision points and branching logic within the system.
 - Serve as a reference for developers, testers, and other stakeholders.
 
-# Project Sprints and Activity Diagrams
+## Project Sprints and Activity Diagrams
 
 Welcome to the Project Sprints and Activity Diagrams section of the DreamHome Real Estate Website project! This document provides an overview of the sprints and their associated activity diagrams, which illustrate the workflow and tasks completed during each sprint.
 
@@ -84,5 +100,8 @@ If you have suggestions for improving the activity diagram or if you'd like to c
 
 ## Contact Us
 
-We hope this activity diagram helps you understand the user journey on our DreamHome Real Estate Website. If you have any questions or suggestions regarding this diagram, please don't hesitate to
-[contact us](mailto:contact@example.com).
+<ul>
+We hope you find the DreamHome Real Estate Website platform useful for your real estate endeavors. If you have any questions or encounter any issues, please don't hesitate to contact us.
+
+Mail id:- manan202101136@gmail.com 
+</ul>
