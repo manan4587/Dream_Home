@@ -21,7 +21,7 @@ Welcome to the Dream Home Real Estate Platform project! This README provides an 
 - [Design Thinking and Features](#Design-Thinking-and-Features)
 - [Concept Poster](#Concept-Poster)
 - [Concept Overview](#Concept-Overview)
-- [Prototyping and Testing](#Prototyping and Testing)
+- [Prototyping and Testing](#Prototyping-and-Testing)
 - [Potential Challenges](#Potential-Challenges)
 - [Measuring Success](#Measuring-Success)
 - [Project Phases](#Project-Phases)
@@ -30,6 +30,8 @@ Welcome to the Dream Home Real Estate Platform project! This README provides an 
 - [Contact](#Contact-us)
 
 ## Functional and Non-Functional Requirements
+
+![Dream Home FR & NFR ](FR_NFR_Tools.jpg)
 
 ### Users
 - Buyers
@@ -74,6 +76,8 @@ Welcome to the Dream Home Real Estate Platform project! This README provides an 
 
 ## Design Thinking and Features
 
+![Dream Home Features ](Features.jpg)
+
 ### Expert Reviews
 - Professional insights
 - Advice from experienced real estate experts
@@ -99,7 +103,7 @@ Welcome to the Dream Home Real Estate Platform project! This README provides an 
 
 ## Concept Poster
 
-![Dream Home Concept Poster](concept_poster.png)
+![Dream Home Concept Poster](Concept_poster.jpg)
 
 ## Concept Overview
 
@@ -169,7 +173,10 @@ We appreciate your involvement in making the Dream Home Real Estate Platform a s
 ## Contact Us
 <ul>
 We hope you find the DreamHome Real Estate Website platform useful for your real estate endeavors. If you have any questions or encounter any issues, please don't hesitate to contact us.
-
 Mail id:- manan202101136@gmail.com 
 </ul>
+
+## Group Image
+
+![Dream Home Group Image](Gp_Img.jpg)
 
