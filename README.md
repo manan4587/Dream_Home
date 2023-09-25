@@ -9,7 +9,7 @@
 | 5 | Jay Dobariya | 202101163 |
 | 6 | Meet Dhorajiya | 202101155 |
 | 7 | Dhruv Savaliya | 202101161 |
-| 8 | Asdey Shah | 202101101 |
+| 8 | Aadey Shah | 202101101 |
 | 9 | Kushal Srivastava | 202101113 |
 | 10 | Harshit Kumar | 202101116|
 
