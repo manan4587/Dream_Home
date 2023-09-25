@@ -28,6 +28,7 @@ Welcome to the Dream Home Real Estate Platform project! This README provides an 
 - [How to Use](#How-to-Use)
 - [Contributing](#contributing)
 - [Contact](#Contact-us)
+- [Group Image](#Group-Image)
 
 ## Functional and Non-Functional Requirements
 
