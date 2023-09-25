@@ -3,7 +3,7 @@
 Welcome to the Dream Home project! This document outlines the user stories that drive the development and features of our real estate platform. Our team is dedicated to providing a seamless experience for buyers, sellers, renters, and administrators.
 
 ## Table of Contents
-- [Contributing Members(#Contributing-Members)
+- [Contributing Members](#Contributing-Members)
 - [User Stories](#User-Stories)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
