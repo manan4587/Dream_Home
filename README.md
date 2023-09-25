@@ -82,26 +82,26 @@ Dream Home Provides complete information about Property. Some website falls shor
 <ul>
 <li> Once the platform is installed and configured, you can start using it to explore and interact with real estate listings. Here are some basic usage instructions: </li>
 
-<li>1.Start the website by clicking above link.</li>
-<li>2.Open the website in your web browser.</li>
-<li>3.Sign up for an account or log in if you already have one.</li>
-<li>4.Browse property listings, search for your dream home, or list your own property.</li>
-<li>5.Enjoy the convenience of DreamHome Real Estate Website for all your real estate needs! </li>
+<li>Start the website by clicking above link.</li>
+<li>Open the website in your web browser.</li>
+<li>Sign up for an account or log in if you already have one.</li>
+<li>Browse property listings, search for your dream home, or list your own property.</li>
+<li>Enjoy the convenience of DreamHome Real Estate Website for all your real estate needs! </li>
 </ul>
 
 # Contributing
 <ul>
 <li>We welcome contributions from the community! If you'd like to contribute to the DreamHome Real Estate Website, please follow these guidelines:</li>
 
-<li>1.Fork the repository.</li>
-<li>2.Create a new branch for your feature or bug fix.</li>
-<li>3.Make your changes and test thoroughly.</li>
-<li>4.Submit a pull request, providing a detailed description of your changes.</li>
+<li>Fork the repository.</li>
+<li>Create a new branch for your feature or bug fix.</li>
+<li>Make your changes and test thoroughly.</li>
+<li>Submit a pull request, providing a detailed description of your changes.</li>
 </ul>
 
 # Contact Us
 <ul>
 We hope you find the DreamHome Real Estate Website platform useful for your real estate endeavors. If you have any questions or encounter any issues, please don't hesitate to contact us.
 
-<li> Mail id:- manan202101136@gmail.com </li>
+Mail id:- manan202101136@gmail.com 
 </ul>
