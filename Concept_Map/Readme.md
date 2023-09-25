@@ -3,7 +3,7 @@
 
 Welcome to the  Concepts Map section of the DreamHome Real Estate Website project! This document provides a comprehensive list of key concepts and terms that are essential to understanding and navigating our real estate platform.
 
-![Concept Map](concept-map.png)
+![Concept Map](Concept_map.png)
  
 ## Table of Contents
 - [Overview](#overview)
