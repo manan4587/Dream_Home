@@ -80,7 +80,7 @@ Dream Home Provides complete information about Property. Some website falls shor
 
 # Usage
 <ul>
-<li> Once the platform is installed and configured, you can start using it to explore and interact with real estate listings. Here are some basic usage instructions: </li>
+ Once the platform is installed and configured, you can start using it to explore and interact with real estate listings. Here are some basic usage instructions: 
 
 <li>Start the website by clicking above link.</li>
 <li>Open the website in your web browser.</li>
@@ -91,7 +91,7 @@ Dream Home Provides complete information about Property. Some website falls shor
 
 # Contributing
 <ul>
-<li>We welcome contributions from the community! If you'd like to contribute to the DreamHome Real Estate Website, please follow these guidelines:</li>
+We welcome contributions from the community! If you'd like to contribute to the DreamHome Real Estate Website, please follow these guidelines: 
 
 <li>Fork the repository.</li>
 <li>Create a new branch for your feature or bug fix.</li>
