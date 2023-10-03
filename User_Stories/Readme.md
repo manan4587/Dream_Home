@@ -20,7 +20,7 @@ Welcome to the Dream Home project! This document outlines the user stories that 
 | 6 | Meet Dhorajiya | 202101155 |
 | 7 | Dhruv Savaliya | 202101161 |
 | 8 | Aadey Shah | 202101101 |
-| 9 | Kushal Srivastava | 202101113 |
+| 9 | Kushal Srivastava | 202101103 |
 
 
 ## User Stories
