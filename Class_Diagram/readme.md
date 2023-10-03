@@ -25,9 +25,9 @@ The DreamHome Real Estate Website is a feature-rich platform designed to simplif
 
 To understand the concept map:
 
-1. Open the concept map image (`concept-map.png`) in your preferred image viewer.
+1. Open the Class Diagram image in your preferred image viewer.
 2. Explore the core concepts and their relationships within the DreamHome Real Estate Website ecosystem.
-3. Use this map as a reference when discussing project architecture, features, and user interactions.
+3. Use this image as a reference when discussing project architecture, features, and user interactions.
 
 ## Contributing
 
