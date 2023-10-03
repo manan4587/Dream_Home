@@ -2,7 +2,7 @@
 
 Welcome to the  Class Diagram section of the DreamHome Real Estate Website project! This document provides a comprehensive list of key concepts and terms that are essential to understanding and navigating our real estate platform.
 
-![Class Diagram](Class_Diagram/Class_Diagram.png)
+![Class_Diagram](Class_Diagram_SE.png)
  
 ## Contributing Members
 | Sr. no. | Student Name | Student ID |
