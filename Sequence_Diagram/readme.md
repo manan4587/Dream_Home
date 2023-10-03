@@ -5,7 +5,7 @@ Welcome to the Sequence Diagram of the DreamHome Real Estate Website project! Th
 ## Contributing Members
 | Sr. no. | Student Name        | Student ID |
 | ------- | ------------------- | ---------- |
-| 1       | Kushal Shrivastava  | 202101136 |
+| 1       | Kushal Shrivastava  | 202101103 |
 
 ## Table of Contents
 - [Overview](#overview)
