@@ -13,7 +13,7 @@ Welcome to the Activity Diagram section of the **DreamHome Real Estate Website p
 | 6 | Meet Dhorajiya | 202101155 |
 | 7 | Dhruv Savaliya | 202101161 |
 | 8 | Aadey Shah | 202101101 |
-| 9 | Kushal Srivastava | 202101113 |
+| 9 | Kushal Srivastava | 202101103 |
 | 10 | Harshit Kumar | 202101116|
 
 
