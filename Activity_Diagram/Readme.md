@@ -48,15 +48,15 @@ Welcome to the Project Sprints and Activity Diagrams section of the DreamHome Re
 
 **Summary:** Sprint 1 focused on implementing user authentication. Key activities included designing login and register pages, developing authentication logic, and creating basic UI/UX designs for authentication screens.
 
-## Sprint 2: Home Page and Search Filters (1 Week)
+## Sprint 2: Home Page  (1 Week)
 
 **Summary:** Sprint 2 aimed to develop the home view and search functionality. Tasks included designing the home view, implementing the UI, and connecting the search feature with the backend.
 
-## Sprint 3: Personalized Recommendation (1 Week)
+## Sprint 3: Personalized Recommendation and Search Filters (1 Week)
 
 **Summary:** Sprint 3 focused on creating personalized recommendation algorithms and developing the UI for ratings and reviews. The team defined recommendation algorithms based on user behavior.
 
-## Sprint 4: Real Estate Features and Rating/Reviews (1 Week)
+## Sprint 4: Real Estate View (Property View) (1 Week)
 
 **Summary:** Sprint 4 involved designing property listing pages, implementing property details pages, adding "Save Favorites" functionality, integrating contact options with agents, and enabling user reviews and ratings.
 
