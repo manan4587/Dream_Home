@@ -32,15 +32,15 @@ To understand the Sequence-Diagram:
 ## Sequence Diagrams
 
 ### Buyer Sequence Diagram
-- [Link to Buyer SD](Buyer_SD.png)
+- ![Buyer SD](Buyer_SD.png)
 - Description: This sequence diagram illustrates the interactions and processes involved in a buyer's journey on the DreamHome Real Estate Website, from searching for properties to making a purchase.
 
 ### Seller Sequence Diagram
-- [Link to Seller SD](Seller_SD.png)
+- ![Seller SD](Seller_SD.png)
 - Description: The Seller Sequence Diagram demonstrates the step-by-step process that a seller goes through when listing a property for sale on the platform.
 
 ### Renter Sequence Diagram
-- [Link to Renter SD](Renter_SD.png)
+- ![Renter SD](Renter_SD.png)
 - Description: The Renter Sequence Diagram outlines the interactions and activities that a renter performs when searching for and renting properties on the DreamHome Real Estate Website.
 
 ## Contributing
