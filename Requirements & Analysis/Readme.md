@@ -12,7 +12,7 @@ Welcome to the Dream Home Real Estate Platform project! This README provides an 
 | 5 | Jay Dobariya | 202101163 |
 | 6 | Meet Dhorajiya | 202101155 |
 | 7 | Dhruv Savaliya | 202101161 |
-| 8 | Kushal Srivastava | 202101113 |
+| 8 | Kushal Srivastava | 202101103 |
 
 
 ## Table of Contents
